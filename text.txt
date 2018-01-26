@@ -1,3 +1,7 @@
 Favorite Food: Pizza
 Favorite Music: Folk
 Astrological Sign: Gemini
+
+Favorite Food: Pizza
+Favorite Music: Rock
+Astrological Sign: Scorpio
